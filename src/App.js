@@ -62,7 +62,7 @@ function App() {
       <div className="buttons">
         <button onClick={startStop}>Start/Stop</button>
         <button id="pause" onClick={waitwtf} type="button">
-          Pause
+          Wait
         </button>
         <button onClick={clear}>Clear</button>
       </div>
